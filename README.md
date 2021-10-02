@@ -2,6 +2,6 @@
 <h2 align="center"> My Github Activity </h2>
 
 <p align='center'>
-  <img align="center" width="600" src="https://github-readme-stats.vercel.app/api?username=mardontursunov&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Mardon's Github Stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mabrur-h&show_icons=true&theme=merko" alt="Mardon's Github Statistics">
 </p>
 
